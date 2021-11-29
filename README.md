@@ -1,7 +1,7 @@
 # SoftRobotBodyDeformation-3DFEM
 ---
 
-This project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes)
+The project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes)
 
 Forward Actions:
 - Add Hexahedra 8 Nodes 
