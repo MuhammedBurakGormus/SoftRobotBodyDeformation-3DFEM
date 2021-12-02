@@ -1,6 +1,6 @@
 # SoftRobotBodyDeformation-3DFEM
 
-<img src="https://user-images.githubusercontent.com/77242876/144505747-0e9005dd-a91b-42d9-936d-9d36cb25f557.gif" width="1000" height="250"/>
+<img src="https://user-images.githubusercontent.com/77242876/144505747-0e9005dd-a91b-42d9-936d-9d36cb25f557.gif" width="1000" height="500"/>
 
 *In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the dynamic body motion is recorded.* 
 
