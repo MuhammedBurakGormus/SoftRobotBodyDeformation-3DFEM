@@ -2,7 +2,7 @@
 
 ![BodyMove](https://user-images.githubusercontent.com/77242876/144505747-0e9005dd-a91b-42d9-936d-9d36cb25f557.gif)
 
-*In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the dynamic body motion is recorded. * 
+*In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the dynamic body motion is recorded.* 
 
 ---
 
