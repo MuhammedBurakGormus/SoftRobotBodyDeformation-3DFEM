@@ -31,3 +31,13 @@ Another sample screenshot from the GUI is as follows:
 Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs.
 
 ----
+
+The dynamic motion (to be developed) is given below. 
+https://user-images.githubusercontent.com/77242876/144505218-be895da3-7e22-47d3-a239-9d24b039f470.mp4
+
+----
+
+In the video, the bosy is subjected to sinousidal forces having an amplitude of 1N from each leg, and the body motion is recorded.
+
+
+
