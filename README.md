@@ -4,7 +4,7 @@
 The project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes)
 
 Forward Actions:
-- Add Hexahedra 8 Nodes 
+- Add Hexahedra 8 Nodes - ADDED 👌
 - Make the program compatible with dynamic motion
 - Add Non-Linearity
 
@@ -23,3 +23,11 @@ Here, the body is fixed at the YZ Plane, an it is subjected to vertical force at
 
 ----
 
+Another sample screenshot from the GUI is as follows:
+<img width="1440" alt="Ekran Resmi 2021-12-02 15 57 17" src="https://user-images.githubusercontent.com/77242876/144426963-f184ea4b-61c6-47c2-8cc9-223fdeefc7eb.png">
+
+---
+
+Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs.
+
+----
