@@ -1,4 +1,8 @@
 # SoftRobotBodyDeformation-3DFEM
+
+![BodyMove](https://user-images.githubusercontent.com/77242876/144505747-0e9005dd-a91b-42d9-936d-9d36cb25f557.gif)
+*In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the dynamic body motion is recorded. * 
+
 ---
 
 The project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes)
@@ -30,16 +34,6 @@ Another sample screenshot from the GUI is as follows:
 
 Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs.
 
-----
-
-The dynamic motion (to be developed) is given below. 
-
-![BodyMove](https://user-images.githubusercontent.com/77242876/144505747-0e9005dd-a91b-42d9-936d-9d36cb25f557.gif)
-
-
-----
-
-In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the body motion is recorded.
 
 
 
