@@ -33,7 +33,8 @@ Here, the body is fixed at center, an it is subjected to vertical forces coming 
 ----
 
 The dynamic motion (to be developed) is given below. 
-https://user-images.githubusercontent.com/77242876/144505218-be895da3-7e22-47d3-a239-9d24b039f470.mp4
+![BodyMove](https://user-images.githubusercontent.com/77242876/144505747-0e9005dd-a91b-42d9-936d-9d36cb25f557.gif)
+
 
 ----
 
