@@ -9,7 +9,14 @@
 
 The MATLAB GUI aims to analyze a rectangular prism domain using Finite Element Method for a soft robot body. The elements are 3D, namely Hexahedra with 27Nodes and Hexahedra with 8Nodes. In static analysis, it is possible to use both element types. For dynamic analysis, the element type is chosen as Hexahedra with 8 Nodes in order to allow a faster analysis.
 
-
+For the static analysis:
+- The user can create a rectangular prism domain after entering geometric entitites of the domain. use the mesh density over the thickness.
+- The user could choose mesh density over the lengths. 
+- The user is allowed to choose the element type whether it is Hexahedra-27Nodes or Hexahedra-8Nodes.
+- The user may fix the geometry at different planes (could be fixed at XY-YZ-XZ Planes).
+- The user can change the force magnitude that is applied at the tip, and can change the material properties such as Young's Modulus and Poisson Ratio. 
+  
+After analyzing the structure, figures can be saved. 
 ---
 A sample screenshot from the GUI is as follows (Static Analysis with Hexahedra27 Nodes) :<img width="1440" alt="Ekran Resmi 2021-11-29 21 49 57" src="https://user-images.githubusercontent.com/77242876/143926927-4856d271-808c-4328-8ccf-b4a9602054f5.png">
 
