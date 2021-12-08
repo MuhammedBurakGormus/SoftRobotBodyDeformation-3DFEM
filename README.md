@@ -32,8 +32,7 @@ The body is divided into 9 elements, and the element type is chosen as Hexahedra
 - The user can change the material properties such as Young's Modulus and Poisson Ratio. Indeed, it will be changed with real parameters later. 
 - The body deformation can be, then, recorded. 
  
-Another sample screenshot from the GUI is as follows:
-<img width="1440" alt="Ekran Resmi 2021-12-02 15 57 17" src="https://user-images.githubusercontent.com/77242876/144426963-f184ea4b-61c6-47c2-8cc9-223fdeefc7eb.png">
+The GIF that demonstrates the dynamic motion from the GUI is as follows:
 
 
 
