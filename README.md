@@ -35,7 +35,7 @@ The body is divided into 9 elements, and the element type is chosen as Hexahedra
 The GIF that demonstrates the dynamic motion from the GUI is as follows (Dynamic Analysis with Hexahedra8 Nodes):
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77242876/145274100-ff1e1c93-da6c-4d4c-84a8-635806a9cebb.gif" width="1400" height="1000"/>
+<img src="https://user-images.githubusercontent.com/77242876/145274100-ff1e1c93-da6c-4d4c-84a8-635806a9cebb.gif" width="1400" height="500"/>
 
 
 *Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs.*
