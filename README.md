@@ -17,19 +17,21 @@ For the static analysis:
 - The user is allowed to choose the element type whether it is Hexahedra-27Nodes or Hexahedra-8Nodes.
 - The user may fix the geometry at different planes (could be fixed at XY-YZ-XZ Planes).
 - The user can change the force magnitude that is applied at the tip, and can change the material properties such as Young's Modulus and Poisson Ratio. 
+    
+A sample screenshot from the GUI is as follows (Static Analysis with Hexahedra27 Nodes) :<img width="1439" alt="Ekran Resmi 2021-12-08 22 15 20" src="https://user-images.githubusercontent.com/77242876/145269985-5457917c-6cbd-456f-acef-9282cc49f7ef.png">
+
+*Here, the body is fixed at the YZ Plane, an it is subjected to vertical force at the tip having a magnitude of 1N.*
+
+## Dynamic Analysis
   
-After analyzing the structure, figures can be saved. 
+For the dynamic analysis,
   
----
-A sample screenshot from the GUI is as follows (Static Analysis with Hexahedra27 Nodes) :<img width="1440" alt="Ekran Resmi 2021-11-29 21 49 57" src="https://user-images.githubusercontent.com/77242876/143926927-4856d271-808c-4328-8ccf-b4a9602054f5.png">
-
-
-
-
-*Here, the body is fixed at the YZ Plane, an it is subjected to vertical force at the tip.*
-
-----
-
+The body is divided into 9 elements, and the element type is chosen as Hexahedra with 8 Nodes for faster analysis. 
+- The element at the center is assumed to be fixed. In other words, the displacement values for the nodes at the center element is defined as zero (Dirichlet BC). 
+- The body is assumed to be subjected to sinousidal forces having an amplitude of 1N from each leg. However, this can be changed by the user.  Indeed, it will be integrated with the leg forces that are obtained from the dynamic motion. 
+- The user can change the material properties such as Young's Modulus and Poisson Ratio. Indeed, it will be changed with real parameters later. 
+- The body deformation can be, then, recorded. 
+ 
 Another sample screenshot from the GUI is as follows:
 <img width="1440" alt="Ekran Resmi 2021-12-02 15 57 17" src="https://user-images.githubusercontent.com/77242876/144426963-f184ea4b-61c6-47c2-8cc9-223fdeefc7eb.png">
 
