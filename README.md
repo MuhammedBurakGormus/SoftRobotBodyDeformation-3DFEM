@@ -11,7 +11,7 @@ The MATLAB GUI aims to analyze a rectangular prism domain using Finite Element M
 
 
 ---
-A sample screenshot from the GUI is as follows:<img width="1440" alt="Ekran Resmi 2021-11-29 21 49 57" src="https://user-images.githubusercontent.com/77242876/143926927-4856d271-808c-4328-8ccf-b4a9602054f5.png">
+A sample screenshot from the GUI is as follows (Static Analysis with Hexahedra27 Nodes) :<img width="1440" alt="Ekran Resmi 2021-11-29 21 49 57" src="https://user-images.githubusercontent.com/77242876/143926927-4856d271-808c-4328-8ccf-b4a9602054f5.png">
 
 
 
