@@ -5,9 +5,9 @@
 
 *In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the dynamic body motion is recorded. Forces are assumed to be applied at each 0.5 second. Thus, the frame rate of the gif is chosen as 2.* 
 
----
+## Aim of the Project
 
-The MATLAB GUI aims to analyze a rectangular prism domain using Finite Element Method for a soft robot body. The elements are 3D, namely Hexahedra with 27Nodes and Hexahedra with 8Nodes. In static analysis, it is possible to use both element types. For dynamic analysis, the element type is chosen as Hexahedra with 8 Nodes in order to allow a faster analysis.
+The MATLAB GUI aims to analyze a rectangular prism domain using Finite Element Method for a soft robot body. In the project, FEM is implemented to find the deformations as a result of the forces coming from the legs, while the robot moves through dynamically. The elements are 3D, namely Hexahedra with 27Nodes and Hexahedra with 8Nodes. In static analysis, it is possible to use both element types. For dynamic analysis, the element type is chosen as Hexahedra with 8 Nodes in order to allow a faster analysis.
   
 ## Static Analysis
 
