@@ -31,7 +31,14 @@ The body is divided into 9 elements, and the element type is chosen as Hexahedra
 - The body is assumed to be subjected to sinousidal forces having an amplitude of 1N from each leg. However, this can be changed by the user.  Indeed, it will be integrated with the leg forces that are obtained from the dynamic motion. 
 - The user can change the material properties such as Young's Modulus and Poisson Ratio. Indeed, it will be changed with real parameters later. 
 - The body deformation can be, then, recorded. 
- 
+
+A sample screenshot from the GUI is as follows (Dynamic Analysis with Hexahedra8 Nodes):
+  
+  <img width="1438" alt="Ekran Resmi 2021-12-08 22 52 30" src="https://user-images.githubusercontent.com/77242876/145274929-5c55a2d5-7b0f-4f8b-afa2-be0c21c23dc4.png">
+
+  
+  
+  
 The GIF that demonstrates the dynamic motion from the GUI is as follows (Dynamic Analysis with Hexahedra8 Nodes):
 
 <p align="center">
