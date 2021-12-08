@@ -42,10 +42,10 @@ The GIF that demonstrates the dynamic motion from the GUI is as follows (Dynamic
 
 ---
 
-The project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes). Besides, initial version of the dynamic motion is achieved.
+*The project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes). Besides, initial version of the dynamic motion is achieved.
 
 Forward Actions:
 - Make the program compatible with dynamic motion (add the robot move & make compatible with the real forces coming from the legs)
-- Add Non-Linearity
+- Add Non-Linearity*
 
 ---
