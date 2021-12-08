@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77242876/145266138-27fad527-2cef-4e40-9938-76051d32bbef.gif" width="400" height="400"/>
 
-*In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the dynamic body motion is recorded. Forces are assumed to be applied at each 0.5 second. Thus, the frame rate of the gif is chosen as 2. * 
+*In the gif, the body is subjected to sinousidal forces having an amplitude of 1N from each leg, and the dynamic body motion is recorded. Forces are assumed to be applied at each 0.5 second. Thus, the frame rate of the gif is chosen as 2.* 
 
 ---
 
