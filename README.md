@@ -7,15 +7,7 @@
 
 ---
 
-The project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes). Besides, initial version of the dynamic motion is achieved.
-
-Forward Actions:
-- Make the program compatible with dynamic motion (add the robot move & make compatible with the real forces coming from the legs)
-- Add Non-Linearity
-
----
-
-The MATLAB GUI aims to analyze a rectangular prism domain using Finite Element Method for a soft robot body. The elements are 3D, namely Hexahedra with 27Nodes. Element type will be extended such that Hexagonal with 8Nodes will be used under dynamic motion to perform the analysis faster. 
+The MATLAB GUI aims to analyze a rectangular prism domain using Finite Element Method for a soft robot body. The elements are 3D, namely Hexahedra with 27Nodes and Hexahedra with 8Nodes. In static analysis, it is possible to use both element types. For dynamic analysis, the element type is chosen as Hexahedra with 8 Nodes in order to allow a faster analysis.
 
 
 ---
@@ -35,6 +27,12 @@ Another sample screenshot from the GUI is as follows:
 
 *Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs.*
 
+---
 
+The project is under development. At the moment, static analysis is achieved using Linear FEM (element type: Hexahedra with 27Nodes). Besides, initial version of the dynamic motion is achieved.
 
+Forward Actions:
+- Make the program compatible with dynamic motion (add the robot move & make compatible with the real forces coming from the legs)
+- Add Non-Linearity
 
+---
