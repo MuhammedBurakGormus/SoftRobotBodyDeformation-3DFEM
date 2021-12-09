@@ -39,15 +39,25 @@ A sample screenshot from the GUI is as follows (Dynamic Analysis with Hexahedra8
   
   
   
-The GIF that demonstrates the dynamic motion from the GUI is as follows (Dynamic Analysis with Hexahedra8 Nodes):
+The first GIF that demonstrates the dynamic motion from the GUI is as follows (Dynamic Analysis with Hexahedra8 Nodes):
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77242876/145274100-ff1e1c93-da6c-4d4c-84a8-635806a9cebb.gif" width="1400" height="500"/>
 
 
-*Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs.*
+*Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs. Note that phase difference between the forces is 0.*
 
----
+
+The second GIF that demonstrates the dynamic motion from the GUI is as follows (Dynamic Analysis with Hexahedra8 Nodes):
+  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77242876/145415552-d9febd76-d6ad-4b0e-a446-d6610620de81.gif" width="1400" height="500"/>
+
+*Here, the body is fixed at center, an it is subjected to vertical forces coming from the body's legs. Note that force1&3 and force2&4 are in phase with 180 degrees.*
+  
+  
+  
+  
   
 *The project is under development.*
 
